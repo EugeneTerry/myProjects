@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Let us do your golf scoring!</h2>
+  <h3> 
+   
+  <form>
+     Please enter the par for the hole:
+    <input id="par" type="number" name="par"><br> 
+    Please enter your strokes:
+    <input id="stroke" type="number" name="stroke"       <br>
+    <br>
+    <input id="btn" type="submit" value="Submit"><br> 
+  </form>
+  <h4>
+    <a id="myText"></a><br>
+    <a id="myBook"></a>
+</body>
+</html>
