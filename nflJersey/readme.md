@@ -1,1 +1,1 @@
-This prject takes user input and grabs from objects using [ ]'s to desplay output.
+### This project takes user input and grabs from objects using [ ]'s to desplay output.
