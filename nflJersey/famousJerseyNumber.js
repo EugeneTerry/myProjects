@@ -12,6 +12,6 @@ var btn = document.getElementById("btn");
 btn.addEventListener("click", (e)=> {
   e.preventDefault();
     var par = parseInt(document.getElementById("par").value);
-  var pi = "The Player's name is " ;
+  var pi = "The famous NFL player's name is " ;
   document.getElementById("myBook").innerHTML = pi + testObj[par];
 })
