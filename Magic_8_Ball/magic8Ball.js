@@ -1,4 +1,5 @@
-
+// When this is ran, a random answer taken from the list of aswers from the Magical 8-Ball toy and display it on the console.
+// There may be a cleaner way of doing this with less code.
 let randomPick = (Math.floor(Math.random() * 100));
 console.clear();
 if (randomPick >= 95) {
