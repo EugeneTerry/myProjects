@@ -44,4 +44,5 @@ if (randomPick >= 95) {
       console.log('You may rely on it')  
   } else {
       console.log('');
+      console.log(1+1);
 }
