@@ -1,6 +1,6 @@
 //this converts a numerical grade to a letter grade
 var grade = prompt("Enter Your Grade");
-function letterGrade(grade) {
+const letterGrade = grade => {
 if (grade >= 93) {
   console.log (`${grade} is an A`);
 }else if (grade >= 86) {
